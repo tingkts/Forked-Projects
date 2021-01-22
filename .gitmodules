@@ -1,0 +1,3 @@
+[submodule "Jhuster-YUVDroidTools/YUVDroidTools"]
+	path = Jhuster-YUVDroidTools/YUVDroidTools
+	url = https://github.com/Jhuster/YUVDroidTools.git
