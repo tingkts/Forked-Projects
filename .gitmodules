@@ -1,3 +1,6 @@
 [submodule "Jhuster-YUVDroidTools/YUVDroidTools"]
 	path = Jhuster-YUVDroidTools/YUVDroidTools
 	url = https://github.com/Jhuster/YUVDroidTools.git
+[submodule "meefik-busybox"]
+	path = meefik-busybox
+	url = https://github.com/meefik/busybox.git
